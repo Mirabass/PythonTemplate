@@ -1,0 +1,2 @@
+# PythonTemplate
+prvotni sablona python
